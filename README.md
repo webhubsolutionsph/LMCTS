@@ -1,6 +1,6 @@
 # LMCTS
-# Development for LGU Midsayap
-# Webhub Solutions PH
+Development for LGU Midsayap
+Webhub Solutions PH
 
 Hello TEAM,
 
